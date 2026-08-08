@@ -178,7 +178,7 @@ ul a:hover::after {
 
 .humburger {
     display: none;
-    font-size: 30px;
+    font-size: 25px;
     color: var(--primary);
     cursor: pointer;
 
@@ -972,7 +972,7 @@ n
     .humburger {
         display: block;
         border: none;
-        font-size: 30px;
+        font-size: 25px;
     }
 
     nav {
@@ -1328,7 +1328,7 @@ n
     .humburger {
         display: block;
         border: none;
-        font-size: 30px;
+        font-size: 25px;
     }
 
     nav {
