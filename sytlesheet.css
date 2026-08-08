@@ -125,7 +125,7 @@ ul a:hover::after {
     background-color: #1a1a1a;
     color: #ffffff;
     padding: 0.75rem 1.9rem;
-    border-radius: 6px;
+    border-radius: 5px;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.79rem;
@@ -367,25 +367,16 @@ section {
     background-color: #141414;
     color: #ffffff;
     border: 1px solid #141414;
+    cursor: pointer;
+    
 }
 
 .btn-primary:hover {
-    background-color: #333333;
+    background-color: #ffffff;
     border-color: #333333;
     transform: translateY(-2px);
-}
-
-/* Secondary Button (Light/Outline - e.g., SHOP WOMEN) */
-.btn-secondary {
-    background-color: #ffffff;
     color: #141414;
-    border: 1px solid #e2e2e2;
-}
-
-.btn-secondary:hover {
-    border-color: #141414;
-    background-color: #f7f7f7;
-    transform: translateY(-2px);
+    cursor: pointer;
 }
 
 /* Base style for both image cards */
